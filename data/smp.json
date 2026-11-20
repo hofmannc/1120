@@ -80,8 +80,18 @@
     "values": "2026-12-04"
   },
   {
+    "question": "Welche Programmiersprache(n) planen Sie zu verwenden?",
+    "set": "",
+    "values": "java; python"
+  },
+  {
     "question": "Welche Lizenzen liegen auf den Software-Komponenten von Drittanbietern?",
     "set": "",
     "values": "ccb"
+  },
+  {
+    "question": "Unter welche Art von Lizenz(en) wird die Software fallen?",
+    "set": "",
+    "values": "Apache-2.0; CDDL-1.0; GPL-3.0-only"
   }
 ]
