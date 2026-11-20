@@ -11,4 +11,8 @@
           orcid: 1236-1236-6321-6321        
         - name: Entität3
           affiliation: "MPDL"
+    license: 
+        - Apache-2.0
+        - CDDL-1.0
+        - GPL-3.0-only
     date-released: 2026-12-04
