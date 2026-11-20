@@ -14,4 +14,6 @@ Rolle;"Set ""Enti3"" Set #1";Projektleiter
 Affiliation;"Set ""Enti3"" Set #1";MPDL
 Wann beginnt das Softwareprojekt?;;2026-11-27
 Wann endet das Softwareprojekt?;;2026-12-04
+Welche Programmiersprache(n) planen Sie zu verwenden?;;"java; python"
 Welche Lizenzen liegen auf den Software-Komponenten von Drittanbietern?;;ccb
+Unter welche Art von Lizenz(en) wird die Software fallen?;;"Apache-2.0; CDDL-1.0; GPL-3.0-only"
