@@ -24,5 +24,14 @@
                 }
             }
         ],
-        "datePublished": "2026-12-04"
+        "license": [
+            "https://spdx.org/licenses/Apache-2.0",
+            "https://spdx.org/licenses/CDDL-1.0",
+            "https://spdx.org/licenses/GPL-3.0-only"
+        ],
+        "datePublished": "2026-12-04",
+        "programmingLanguage": [
+            "java",
+            "python"
+        ]
     }
